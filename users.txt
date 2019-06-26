@@ -1,0 +1,28 @@
+rgamliel@bavli.co.il , 12345
+relazar@bavli.co.il , 09876
+rakiva@bavli.co.il , qwerty
+
+
+
+for <aside>:
+p::first-letter {
+    font-size: 28px;
+    font-family: cursive;
+}
+
+#solution-menu {
+    display: flex;
+    flex-direction: column;
+    margin-right: 2px;
+    border: 1px blue solid;
+    padding: 0 10px;
+}
+
+// for students/courses menu:
+<input type="radio" name="options" id="option1" autocomplete="off" checked> Active
+  </label>
+  <label class="btn btn-secondary">
+    <input type="radio" name="options" id="option2" autocomplete="off"> Radio
+
+<button type="button" class="btn btn-primary btn-lg btn-block">Block level button</button>
+
